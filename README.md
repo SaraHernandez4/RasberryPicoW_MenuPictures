@@ -323,15 +323,15 @@ Circuito del menu de botones
 
 Menu de las imagenes
 
-![](Menu.jpeg)
+![](Menu.jpg)
 
-![](Menu1.jpeg)
+![](Menu1.jpg)
 
-![](Menu2.jpeg)
+![](Menu2.jpg)
 
 
 Seleccion de la imagen Snoopy
 
-![](Snoopy.jpeg)
+![](Snoopy.jpg)
 
-![](Snoopy1.jpeg)
+![](Snoopy1.jpg)
